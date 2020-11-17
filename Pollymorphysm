@@ -1,0 +1,14 @@
+//==pollymorphysm========//
+
+  rambo.setSenjata(m16);//rambo saya kasih senjata m16 ==> objek m16 diatas dari kelas M16.
+  rambo.Menembak();// dan rambo menembak bunyi Ratatata Ratata Ratatatata !!! ,lihat hasil run
+  //
+  rambo.setSenjata(bazhoka);//rambo saya kasih senjata bazoka
+  rambo.Menembak();//dan rambo menembak
+  //
+  rambo.setSenjata(pistol);//rambo saya kasih senjata pistol
+  rambo.Menembak();//dan rambo menembak 
+  //=pollymorphysm end============//
+ }
+
+}
