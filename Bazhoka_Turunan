@@ -1,0 +1,7 @@
+public class Bazhoka extends Senjata 
+{
+public void tembak ()
+{
+System.out.println("Bazoka = Duaaar Duuuaaarrrrrrr !!!");
+}
+}
