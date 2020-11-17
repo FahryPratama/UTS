@@ -1,13 +1,3 @@
-public class Senjata {// kelas induk
-
-public void tembak(){
-System.out.println("Door Dorrr Dorrr");
-	  
-}
-}
-
-
-
 public class Pistol extends Senjata 
 {
 }
